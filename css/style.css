@@ -58,6 +58,11 @@
       
   }
 
+  .page4{
+    background-color: bisque;
+    width:100%;
+  }
+
   
   .contact{
       width: 800px;
@@ -213,3 +218,18 @@
 ul {
     list-style-type: none;
 }
+
+#wrapper {
+    width: 850px;
+    height: 600px;
+    background-color: green;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  
+  #map {
+    width: 800px;
+    height: 550px;
+    background-color: maroon;
+    margin: 30px auto;
+  }
